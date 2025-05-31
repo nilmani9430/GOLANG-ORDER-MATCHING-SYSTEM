@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/Ringover_assignment/db"
-	"github.com/Ringover_assignment/router"
+	"github.com/GOLANG-ORDER-MATCHING-SYSTEM/db"
+	"github.com/GOLANG-ORDER-MATCHING-SYSTEM/router"
 )
 
 func main() {

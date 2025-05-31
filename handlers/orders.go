@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Ringover_assignment/db"
-	"github.com/Ringover_assignment/models"
+	"github.com/GOLANG-ORDER-MATCHING-SYSTEM/db"
+	"github.com/GOLANG-ORDER-MATCHING-SYSTEM/models"
 	"github.com/gorilla/mux"
 )
 
